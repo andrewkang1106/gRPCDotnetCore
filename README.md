@@ -7,6 +7,7 @@ This is a basic implementation of a gRPC service in C# using Grpc.Core
 
 
 <h2>To Run</h2>
+
 - Download the project and open the solution in Visual Studio to run <br/>
 
 - Start the server (Account), then start the client (Client)
